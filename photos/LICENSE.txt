@@ -1,6 +1,7 @@
 night_d.jpg / night_f.jpg / night_x.jpg – "2005 winter road dipped beam" / "... full beam" / "... full beam and extra lights",
               Scoo, CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5).
               https://commons.wikimedia.org/wiki/File:2005_winter_road_dipped_beam.jpg , https://commons.wikimedia.org/wiki/File:2005_winter_road_full_beam.jpg , https://commons.wikimedia.org/wiki/File:2005_winter_road_full_beam_and_extra_lights.jpg
+              night_*_4x.jpg are 4x super-resolved versions (Real-ESRGAN realesr-general-x4v3) used by the app, also CC BY-SA 2.5.
               night_mask.png is derived from them and is CC BY-SA 2.5 as well.
 summer.jpg  – "Infinite road", Sébastien Marchand (Unsplash), CC0 1.0. https://commons.wikimedia.org/wiki/File:Infinite_road_(Unsplash).jpg
 winter.jpg  – "Joukokyläntie Vaatovaaralla", Hoogberg, CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0). https://commons.wikimedia.org/wiki/File:Joukokylantie_Vaatovaaralla.jpg
