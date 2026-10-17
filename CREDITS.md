@@ -19,6 +19,17 @@ dashes of the summer photo are rendered as white paint. The masks derived from t
 license (CC BY-SA 3.0); `night_mask.png` is derived from Scoo's photos and shared under CC BY-SA 2.5.
 The night photos are used unmodified apart from runtime relighting/compositing.
 
+## Animals (photo driver view and 3D view)
+Real photographs, cut out to alpha PNG (`public/animals/*.png`, background removed with rembg/IS-Net, then cleaned up by hand),
+scaled to real withers height (moose ≈ 1.9 m, roe deer ≈ 0.7 m) and relit at runtime by the lamp model.
+The cut-outs are adapted material and are shared under the same licence as the original.
+
+| File | Photo | Photographer | License | Source |
+|---|---|---|---|---|
+| `public/animals/moose.png` | “Moose mother and calf on road” (2011), cropped to the adult cow, background removed | Veronika Ronkos (Wikimedia Commons user Ronveron) | CC BY-SA 3.0 – https://creativecommons.org/licenses/by-sa/3.0 | https://commons.wikimedia.org/wiki/File:Moose_mother_and_calf_on_road.jpg |
+| `public/animals/deer1.png` | “Roe deer buck on a summer night in Tuntorp, Brastad 1” (Sweden, 2026), background removed | W.carter (Wikimedia Commons) | CC BY 4.0 – https://creativecommons.org/licenses/by/4.0 | https://commons.wikimedia.org/wiki/File:Roe_deer_buck_on_a_summer_night_in_Tuntorp,_Brastad_1.jpg |
+| `public/animals/deer2.png` | “Roe deer (Capreolus capreolus) female Cumnor” (2024), background removed | Charles J. Sharp – Sharp Photography, sharpphotography.co.uk | CC BY-SA 4.0 – https://creativecommons.org/licenses/by-sa/4.0 | https://commons.wikimedia.org/wiki/File:Roe_deer_(Capreolus_capreolus)_female_Cumnor.jpg |
+
 ## Textures (3D view)
 `public/tex/asphalt.jpg`, `gravel.jpg`, `snow.jpg` – ambientCG (Asphalt025C, Gravel022, Snow006), CC0 1.0, https://ambientcg.com
 
